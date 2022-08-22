@@ -10,6 +10,7 @@ At the moment i played only 24hours without any ban (Raging only a bit) to be ho
 
 # Future Ideeas
 
+- Change overlay
 - Add more stuffs to it
 - Try to change the driver ofc
 - Make a more cooler menu
