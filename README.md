@@ -1,7 +1,7 @@
 # How To Use?
 
 1. Download Source
-2. Download Visual Studio 2022
+2. Download Visual Studio 2019
 3. Compile as Release x64
 
 # Is it undetected?
