@@ -3,8 +3,8 @@
 
 #include <dwmapi.h>
 
-#include "C:/Users\acisu\OneDrive\Desktop\New folder\Loader/skStr.h"
-#include "C:/Users\acisu\OneDrive\Desktop\New folder\Loader/lazy_importer.hpp"
+#include "skStr.h"
+#include "lazy_importer.hpp"
 
 
 
